@@ -1,5 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false"/>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f49e8588-ecde-49c9-a37f-a9f0233d59b5" width="150" height="123" alt="logo">
+</p>
+
 # ☕︎ Projeto Cafena
 
 **Cafena** é um projeto desenvolvido com HTML e CSS, inspirado no tutorial do Youtube [Criando um Site novo de Cafeteria | Projeto para Portfólio](https://www.youtube.com/watch?v=v1jVqO6dx9A). O objetivo foi criar um site de uma cafeteria com um toque especial para os programadores viciados em um bom café, com um design clean e funcional, perfeito para quem aprecia um bom café e código.
