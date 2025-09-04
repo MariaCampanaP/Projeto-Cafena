@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=DEB887&reversal=false"/>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f49e8588-ecde-49c9-a37f-a9f0233d59b5" width="150" height="123" alt="logo">
@@ -39,7 +39,7 @@ O principal objetivo foi aprender a desenvolver um site de cafeteria que atendes
    git clone https://github.com/MariaCampanaP/Projeto-Cafena.git
    ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=DEB887&reversal=false&section=footer"/>
 
 
 
